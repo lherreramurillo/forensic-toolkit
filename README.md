@@ -1,2 +1,14 @@
-# forensic-toolkit
-Python tooling for forensic artifact parsing and analysis
+# Forensic Toolkit
+
+Python tools I build while learning digital forensics. Small, single-purpose,
+documented.
+
+## Tools
+
+| Tool | What it does |
+|---|---|
+| *(coming soon)* | |
+
+## Requirements
+
+Python 3.11+
